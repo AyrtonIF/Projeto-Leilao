@@ -1,0 +1,1 @@
+function acessarLances() { window.location.href = "PaginaDeLance.html"; }
